@@ -1,14 +1,14 @@
 [
 	{
-		"name": "Night Vale",
-		"leaderName": "Cecil Gershwin Palmer",
-		"adjective": ["Night Vale"],
+		"name": "Night Vale Republic",
+		"leaderName": "Capybara",
+		"adjective": ["Night Vale-Republic"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Scientific",
 		"favoredReligion": "Glow Cloud",
 
 		"startIntroPart1": "A friendly desert community, where the sun is hot, the moon is beautiful, and mysterious lights pass overhead while we all pretend to sleep.",
-		"startIntroPart2": "Welcome to Night Vale.",
+		"startIntroPart2": "Welcome to Night Vale Republic.",
 
 		"introduction": "Hello listeners. Welcome to Night Vale.",
 
@@ -21,12 +21,12 @@
 
 		"tradeRequest": "And now, some words from our sponsors.",
 
-		"outerColor": [98,12,91],
+		"outerColor": [0,58,182],
 		"innerColor": [255,255,255],
 
 		"uniqueName": "Friendly Desert Community",
 		"uniques": [
-			"[+10]% Strength <for [All] units> <when fighting in [Desert] tiles> <hidden from users>",
+			"[+19]% Strength <for [All] units> <when fighting in [Desert] tiles> <hidden from users>",
 			"[+15]% spy effectiveness [in all cities] <hidden from users>",
 			"[+15]% Strength <vs [Desert Bluffs]>",
 			"[+2 Science, +1 Happiness] [in all cities] <after discovering [Radio]> <hidden from users>",
