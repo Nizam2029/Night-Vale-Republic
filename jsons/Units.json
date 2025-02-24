@@ -1,7 +1,7 @@
 [
 	{
-		"name": "Blood Pact Scout",
-		"uniqueTo": "Night Vale",
+		"name": "Blood Pact Scout?",
+		"uniqueTo": "Night Vale Republic",
 		"replaces": "Scout",
 		"unitType": "Scout",
 		"movement": 2,
@@ -22,8 +22,8 @@
 		]
 	},
 	{
-		"name": "Weird Scout",
-		"uniqueTo":"Night Vale",
+		"name": "Weird Scout?",
+		"uniqueTo":"Night Vale Republic",
 		"unitType": "Scout",
 		"movement": 2,
 		"strength": 13,
@@ -45,8 +45,8 @@
 		]
 	},
 	{
-		"name": "Dreadnought Scout",
-		"uniqueTo":"Night Vale",
+		"name": "Dreadnought Scout?",
+		"uniqueTo":"Night Vale Republic",
 		"unitType": "Scout",
 		"movement": 2,
 		"strength": 20,
@@ -71,8 +71,8 @@
 		]
 	},
 	{
-		"name": "Eternal Scout",
-		"uniqueTo":"Night Vale",
+		"name": "Eternal Scout?",
+		"uniqueTo":"Night Vale Republic",
 		"unitType": "Scout",
 		"movement": 2,
 		"strength": 50,
@@ -96,8 +96,8 @@
 		]
 	},
 	{
-		"name": "Blue Helicopter",
-		"uniqueTo":"Night Vale",
+		"name": "Blue Helicopter?",
+		"uniqueTo":"Night Vale Republic",
 		"replaces": "Helicopter Gunship",
 		"unitType": "Helicopter",
 		"movement": 6,
@@ -122,9 +122,9 @@
 		]
 	},
 	{
-		"name": "Team of Scientists",
-		"uniqueTo": "Night Vale",
-		"replaces":	"Great Scientist",
+		"name": "Team of Scientists?",
+		"uniqueTo": "Night Vale Republic",
+		"replaces": "Great Scientist",
 		"unitType": "Civilian",
 		"uniques": [
             "Can hurry technology research",
@@ -141,8 +141,8 @@
 		]
 	},
 	{
-		"name": "Hooded Figure",
-		"uniqueTo": "Night Vale",
+		"name": "Hooded Figure?",
+		"uniqueTo": "Night Vale Republic",
 		"replaces": "Inquisitor",
 		"unitType": "Civilian",
 		"uniques": [
