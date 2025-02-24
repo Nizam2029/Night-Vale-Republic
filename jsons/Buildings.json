@@ -1,8 +1,8 @@
 [
 	{
-		"name": "City Hall",
+		"name": "City Hall (Republic)",
 		"isNationalWonder": true,
-		"uniqueTo": "Night Vale",
+		"uniqueTo": "Night Vale Republic",
 		"replaces": "Palace",
 		"production": 3,
 		"science": 3,
@@ -22,8 +22,8 @@
 		]
 	},
 	{
-		"name": "Brown Stone Spire",
-		"uniqueTo":"Night Vale",
+		"name": "Brown Stone Spire?",
+		"uniqueTo":"Night Vale Republic",
 		"replaces": "Shrine",
 		"faith": 1,
 		"cost": 40,
@@ -41,8 +41,8 @@
 		]
 	},
 	{
-		"name": "Public Library",
-		"uniqueTo":"Night Vale",
+		"name": "Public Library?",
+		"uniqueTo":"Night Vale Republic",
 		"replaces": "Library",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
@@ -59,8 +59,8 @@
 		]
 	},
 	{
-		"name": "Dog Park",
-		"uniqueTo":"Night Vale",
+		"name": "Dog Park?",
+		"uniqueTo":"Night Vale Republic",
 		"replaces": "Colosseum",
 		"maintenance": 1,
 		"happiness": 2,
@@ -77,8 +77,8 @@
 		]
 	},
 	{
-		"name": "Big Rico's Pizza",
-		"uniqueTo":"Night Vale",
+		"name": "Big Rico's Pizza?",
+		"uniqueTo":"Night Vale Republic",
 		"replaces": "Aqueduct",
 		"maintenance": 1,
 		"hurryCostModifier": 0,
@@ -95,8 +95,8 @@
 		]
 	},
 	{
-		"name": "Harbor and Waterfront Recreation Area",
-		"uniqueTo":"Night Vale",
+		"name": "Harbor and Waterfront Recreation Area?",
+		"uniqueTo":"Night Vale Republic",
 		"replaces": "Harbor",
 		"cost": 120,
 		"maintenance": 2,
@@ -115,9 +115,9 @@
 		]
 	},
 	{
-		"name": "Community College",
+		"name": "Community College?",
 		"replaces": "University",
-		"uniqueTo": "Night Vale",
+		"uniqueTo": "Night Vale Republic",
 		"maintenance": 2,
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 33},
@@ -136,8 +136,8 @@
 		]
 	},
 	{
-		"name": "NRA Chapter",
-		"uniqueTo":"Night Vale",
+		"name": "NRA Chapter?",
+		"uniqueTo":"Night Vale Republic",
 		"replaces": "Armory",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
@@ -156,8 +156,8 @@
 		]
 	},
 	{
-		"name": "Dark Owl Records",
-		"uniqueTo": "Night Vale",
+		"name": "Dark Owl Records?",
+		"uniqueTo": "Night Vale Republic",
 		"replaces": "Museum",
 		"culture": 5,
 		"specialistSlots": {"Artist": 2},
@@ -177,8 +177,8 @@
 		]
 	},
 	{
-		"name": "Bowling Alley and Arcade Fun Complex",
-		"uniqueTo":"Night Vale",
+		"name": "Bowling Alley and Arcade Fun Complex?",
+		"uniqueTo":"Night Vale Republic",
 		"replaces": "Stadium",
 		"happiness": 4,
 		"requiredBuilding": "Theatre",
@@ -195,8 +195,8 @@
 		]
 	},
 	{
-		"name": "University of What It Is",
-		"uniqueTo":"Night Vale",
+		"name": "University of What It Is?",
+		"uniqueTo":"Night Vale Republic",
 		"replaces": "Research Lab",
 		"science": 4,
 		"percentStatBonus": {"science": 50},
@@ -215,8 +215,8 @@
 		]
 	},
 	{
-		"name": "The Dark Box",
-		"uniqueTo": "Night Vale",
+		"name": "The Dark Box?",
+		"uniqueTo": "Night Vale Republic",
 		"replaces": "Bomb Shelter",
 		"cost": 300,
 		"maintenance": 1,
