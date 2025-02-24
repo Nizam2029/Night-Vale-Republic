@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Science district",
+		"name": "Pro Science district",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniqueTo": "Night Vale",
+		"uniqueTo": "Night Vale Republic",
 		"science": 4,
 		"turnsToBuild": 7,
 		"techRequired": "Education",
